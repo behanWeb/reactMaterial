@@ -6,7 +6,7 @@ import Button from './components/Button';
 class App extends Component {
   render() {
     return (
-      <Button rmClass="btn" />
+      <Button rmClass="btn" btnType="button" />
     );
   }
 }
